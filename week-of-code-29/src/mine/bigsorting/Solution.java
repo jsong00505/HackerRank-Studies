@@ -1,5 +1,7 @@
 package mine.bigsorting;
 
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.Scanner;
 
 /*
@@ -21,26 +23,30 @@ public class Solution {
 			unsorted[unsorted_i] = in.next();
 		}
 
-		int minPos = 0;
-		String temp = "";
 		// your code goes here
-		for(int i = 0; i < n; i++) {
-			for(int j = i + 1; j < n; j++) {
-				if(unsorted[i].length() > unsorted[j].length()) {
-					temp = unsorted[i];
-					unsorted[i] = unsorted[j];
-					unsorted[j] = temp;
-				} else if((unsorted[i].length() == unsorted[j].length()) && (unsorted[i].compareTo(unsorted[j]) > 0)) {
-					temp = unsorted[i];
-					unsorted[i] = unsorted[j];
-					unsorted[j] = temp;
-				}
+
+		// sorting by using Array class
+		Arrays.sort(unsorted, new BigSortingComparator());
+
+
+		// print sorted array
+		for(String s: unsorted) {
+			System.out.println(s);
+		}
+
+		// close
+		in.close();
+
+	}
+
+	static class BigSortingComparator implements Comparator<String> {
+		public int compare(String left, String right) {
+			if(left.length() != right.length()) {
+				return left.length() - right.length();
+			} else {
+				return left.compareTo(right);
 			}
-		}
 
-		for(int i = 0; i < n; i++) {
-			System.out.println(unsorted[i]);
 		}
-
 	}
 }
