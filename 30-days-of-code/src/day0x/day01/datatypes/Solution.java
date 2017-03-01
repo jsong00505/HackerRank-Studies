@@ -1,4 +1,8 @@
-package day0x.day01.datatypes;/*
+package day0x.day01.datatypes;
+
+import java.util.Scanner;
+
+/*
  * Created by jsong on 01/03/2017.
  *
  * hackerrank	: https://www.hackerrank.com/jsong00505
@@ -8,9 +12,6 @@ package day0x.day01.datatypes;/*
  *
  * challenge	: Day 1: Data Types
  */
-
-import java.util.Scanner;
-
 public class Solution {
 	public static void main(String[] args) {
 
