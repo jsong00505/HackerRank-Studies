@@ -21,12 +21,12 @@ public class Solution {
 			unsorted[unsorted_i] = in.next();
 		}
 
+		int minPos = 0;
 		String temp = "";
 		// your code goes here
-		// do insert sorting
 		for(int i = 0; i < n; i++) {
 			for(int j = i + 1; j < n; j++) {
-				if(unsorted[i].length() < unsorted[j].length()) {
+				if(unsorted[i].length() > unsorted[j].length()) {
 					temp = unsorted[i];
 					unsorted[i] = unsorted[j];
 					unsorted[j] = temp;
@@ -38,10 +38,9 @@ public class Solution {
 			}
 		}
 
-		// print out in order
 		for(int i = 0; i < n; i++) {
 			System.out.println(unsorted[i]);
 		}
-	}
 
+	}
 }
