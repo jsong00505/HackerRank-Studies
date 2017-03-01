@@ -10,6 +10,7 @@
  0 solved perfectly out of 4 attempted
 
 
-| Domain          | Day | Difficulty |Challenge | Solution(mine) | Solution(editor) |
-| --------------- | --- | ---------- | -------- | -------------- | ---------------- |
-| Week of Code 29 | 0   | Easy       | [Day of The Programmer](https://www.hackerrank.com/contests/w29/challenges/day-of-the-programmer)  | [Solution.java](src/mine/dayoftheprogrammer/Solution.java) | [Solution.java](src/editor/dayoftheprogrammer/Solution.java) |
+| Domain          | Difficulty |Challenge | Solution(mine) | Solution(editor) | Score |
+| --------------- | ---------- | -------- | -------------- | ---------------- | ----- |
+| Week of Code 29 | Easy       | [Day of The Programmer](https://www.hackerrank.com/contests/w29/challenges/day-of-the-programmer)  | [Solution.java](src/mine/dayoftheprogrammer/Solution.java) | [Solution.java](src/editor/dayoftheprogrammer/Solution.java) | 7.80/10 |
+| Week of Code 29 | Easy       | [Big Sorting](https://www.hackerrank.com/contests/w29/challenges/big-sorting)  | [Solution.java](src/mine/bigsorting/Solution.java) | [Solution.java](src/editor/bigsorting/Solution.java) | 13.60/20 |
