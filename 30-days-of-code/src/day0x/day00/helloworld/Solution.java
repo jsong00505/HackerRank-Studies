@@ -2,10 +2,15 @@ package day0x.day00.helloworld;
 
 import java.util.Scanner;
 
-/**
+/*
  * Created by jsong on 28/02/2017.
  *
- * github: github.
+ * hackerrank	: https://www.hackerrank.com/jsong00505
+ * github		: https://github.com/jsong00505
+ * linkedin		: https://www.linkedin.com/in/junesongskorea/
+ * email		: jsong00505@gmail.com
+ *
+ * challenge	: Day 0: Hello, World
  */
 public class Solution {
 	public static void main(String[] args) {
@@ -24,5 +29,8 @@ public class Solution {
 
 		// TODO: Write a line of code here that prints the contents of inputString to stdout.
 		System.out.println(inputString);
+
+		// close
+		scan.close();
 	}
 }
