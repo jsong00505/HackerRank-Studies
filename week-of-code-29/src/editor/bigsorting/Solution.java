@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/*
+/**
  * Created by jsong on 01/03/2017.
  *
  * hackerrank	: https://www.hackerrank.com/jsong00505
@@ -15,10 +15,10 @@ import java.util.Scanner;
  * challenge	: Week of Code 29 - Big Sorting
  */
 public class Solution {
-
 	public static void main(String[] args) {
 		new Solution().run();
 	}
+
 	void solve(Scanner in, PrintWriter out) {
 		String a[] = new String[in.nextInt()];
 		for (int i = 0; i < a.length; i++) {
