@@ -8,4 +8,4 @@ If you have question of my solution, please feel free to email me.
 
 * [30 Days of Code](30-days-of-code/README.md) (Complete)
 * [Java](java/README.md)(java/README.md) (14 solved)
-* [Week of Code 29) (week-of-code-29/README.md) (2717/9216)
+* [Week of Code 29] (week-of-code-29/README.md) (2717/9216)
