@@ -25,7 +25,7 @@ public class Solution {
 				int x = in.nextInt();
 				//Complete this line
 
-				// get s1's length
+				// get s1's length for iterating
 				int lenS1 = s1.length();
 
 				// print s1 first
@@ -39,6 +39,9 @@ public class Solution {
 				// fill 0 to the rest of x then print
 				String strX = x < 10? "00" + x : (x < 100? "0" + x : Integer.toString(x));
 				out.println(strX);
+
+				// TODO: this is the editorial solution
+				// out.printf( "%-15s%03d %n", s1, x);
 			}
 			out.println("================================");
 		} catch (Exception e) {
