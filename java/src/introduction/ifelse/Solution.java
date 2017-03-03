@@ -41,6 +41,8 @@ public class Solution {
 				}
 			}
 			out.println(ans);
+		} catch(Exception e) {
+
 		}
 	}
 }
