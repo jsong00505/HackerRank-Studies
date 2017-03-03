@@ -26,9 +26,9 @@ public class Solution {
 			in.nextLine();
 			String s = in.nextLine();
 
-			System.out.println("String: " + s);
-			System.out.println("Double: " + d);
-			System.out.println("Int: " + i);
+			out.println("String: " + s);
+			out.println("Double: " + d);
+			out.println("Int: " + i);
 		}catch(Exception e) {
 
 		}
