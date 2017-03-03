@@ -43,7 +43,7 @@ public class Solution {
 				throw new Exception("Out of Range");
 			}
 
-			System.out.println(ans);
+			out.println(ans);
 		} catch(Exception e) {
 
 		}
