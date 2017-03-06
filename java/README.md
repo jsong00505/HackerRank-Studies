@@ -12,3 +12,4 @@
 | Java      | 15  | Easy       | [Java Substring](https://www.hackerrank.com/challenges/java-substring)  | [Solution.java](src/strings/substring/Solution.java) |
 | Java      | 16  | Easy       | [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)  | [Solution.java](src/strings/compare/Solution.java) |
 | Java      | 17  | Easy       | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)  | [Solution.java](src/strings/reverse/Solution.java) |
+| Java      | 18  | Easy       | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)  | [Solution.java](src/strings/anagrams/Solution.java) |
