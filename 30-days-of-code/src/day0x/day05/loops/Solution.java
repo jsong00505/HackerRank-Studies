@@ -11,13 +11,13 @@ import java.util.Scanner;
  * linkedin		: https://www.linkedin.com/in/junesongskorea/
  * email		: jsong00505@gmail.com
  * <p>
- * challenge	: Loops
+ * challenge	: Day 5: Loops
  */
-public class Loops {
+public class Solution {
 	public static void main(String[] args) {
 		try (
-			Scanner in = new Scanner(System.in);
-			PrintWriter out = new PrintWriter(System.out);
+				Scanner in = new Scanner(System.in);
+				PrintWriter out = new PrintWriter(System.out);
 		) {
 			// get an integer N
 			int N = in.nextInt();
