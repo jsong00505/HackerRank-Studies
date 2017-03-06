@@ -10,6 +10,7 @@
 | Java      | 6   | Easy       | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)  | [Solution.java](src/introduction/loops1/Solution.java) |
 | Java      | 7   | Easy       | [Java Loops II](https://www.hackerrank.com/challenges/java-loops)  | [Solution.java](src/introduction/loops2/Solution.java) |
 | Java      | 8   | Easy       | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)  | [Solution.java](src/introduction/datatypes/Solution.java) |
+| Java      | 9   | Easy       | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)  | [Solution.java](src/introduction/endoffile/Solution.java) |
 | Java      | 14  | Easy       | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)  | [Solution.java](src/strings/introduction/Solution.java) |
 | Java      | 15  | Easy       | [Java Substring](https://www.hackerrank.com/challenges/java-substring)  | [Solution.java](src/strings/substring/Solution.java) |
 | Java      | 16  | Easy       | [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)  | [Solution.java](src/strings/compare/Solution.java) |
