@@ -7,5 +7,5 @@ That is why I reorganized my solutions here again.
 If you have question of my solution, please feel free to email me.
 
 * [30 Days of Code](30-days-of-code/README.md) (Complete)
-* [Java](java/README.md) (15 solved)
+* [Java](java/README.md) (18 solved)
 * [Week of Code 29] (week-of-code-29/README.md) (2717/9216)
