@@ -14,6 +14,7 @@
 | Java      | 10  | Easy       | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)  | [Solution.java](src/introduction/staticinitblock/Solution.java) |
 | Java      | 11  | Easy       | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)  | [Solution.java](src/introduction/inttostr/Solution.java) |
 | Java      | 12  | Easy       | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)  | [Solution.java](src/introduction/dateandtime/Solution.java) |
+| Java      | 13  | Easy       | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)  | [Solution.java](src/introduction/currencyformatter/Solution.java) |
 | Java      | 14  | Easy       | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)  | [Solution.java](src/strings/introduction/Solution.java) |
 | Java      | 15  | Easy       | [Java Substring](https://www.hackerrank.com/challenges/java-substring)  | [Solution.java](src/strings/substring/Solution.java) |
 | Java      | 16  | Easy       | [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)  | [Solution.java](src/strings/compare/Solution.java) |
