@@ -12,3 +12,4 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 4   | Easy       | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)  | [Person.java](src/day0x/day04/classvsinstance/Person.java) |
 | Tutorials | 5   | Easy       | [Loops](https://www.hackerrank.com/challenges/30-loops)  | [Solution.java](src/day0x/day05/loops/Solution.java) |
 | Tutorials | 6   | Easy       | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)  | [Solution.java](src/day0x/day06/letsreview/Solution.java) |
+| Tutorials | 7   | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)  | [Solution.java](src/day0x/day07/arrays/Solution.java) |
