@@ -11,6 +11,8 @@
 | Java      | 7   | Easy       | [Java Loops II](https://www.hackerrank.com/challenges/java-loops)  | [Solution.java](src/introduction/loops2/Solution.java) |
 | Java      | 8   | Easy       | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)  | [Solution.java](src/introduction/datatypes/Solution.java) |
 | Java      | 9   | Easy       | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)  | [Solution.java](src/introduction/endoffile/Solution.java) |
+| Java      | 10  | Easy       | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)  | [Solution.java](src/introduction/staticinitblock/Solution.java) |
+| Java      | 11  | Easy       | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)  | [Solution.java](src/introduction/inttostr/Solution.java) |
 | Java      | 14  | Easy       | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)  | [Solution.java](src/strings/introduction/Solution.java) |
 | Java      | 15  | Easy       | [Java Substring](https://www.hackerrank.com/challenges/java-substring)  | [Solution.java](src/strings/substring/Solution.java) |
 | Java      | 16  | Easy       | [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)  | [Solution.java](src/strings/compare/Solution.java) |
