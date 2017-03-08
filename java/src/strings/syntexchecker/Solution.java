@@ -26,6 +26,7 @@ public class Solution {
 			// iterate for the number
 			while(testCases > 0){
 				String pattern = in.nextLine();
+				testCases--;
 				//Write your code
 				try {
 					// compile the pattern
