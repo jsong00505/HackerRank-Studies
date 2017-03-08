@@ -21,3 +21,4 @@
 | Java      | 17  | Easy       | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)  | [Solution.java](src/strings/reverse/Solution.java) |
 | Java      | 18  | Easy       | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)  | [Solution.java](src/strings/anagrams/Solution.java) |
 | Java      | 19  | Easy       | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)  | [Solution.java](src/strings/tokens/Solution.java) |
+| Java      | 20  | Easy       | [Java Pattern Syntax Checker](https://www.hackerrank.com/challenges/java-string-tokens)  | [Solution.java](src/strings/syntaxchecker/Solution.java) |
