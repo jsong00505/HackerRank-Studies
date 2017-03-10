@@ -22,4 +22,4 @@
 | Java      | 18  | Easy       | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)  | [Solution.java](src/strings/anagrams/Solution.java) |
 | Java      | 19  | Easy       | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)  | [Solution.java](src/strings/tokens/Solution.java) |
 | Java      | 20  | Easy       | [Java Pattern Syntax Checker](https://www.hackerrank.com/challenges/java-string-tokens)  | [Solution.java](src/strings/syntaxchecker/Solution.java) |
-| Java      | 21  | Easy       | [Java Regex](https://www.hackerrank.com/challenges/java-regex)  | [Solution.java](src/strings/regex/Solution.java) |
+| Java      | 21  | Medium     | [Java Regex](https://www.hackerrank.com/challenges/java-regex)  | [Solution.java](src/strings/regex/Solution.java) |
