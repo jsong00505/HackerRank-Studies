@@ -36,6 +36,10 @@ class MyRegex {
 		 * {m,n}	>> Matches the preceding element at least m and not more than n times.
 		 */
 
+		/*
+		 * Also, I can use regex like below
+		 * String IPClass = "(([01]?[0-9]{0,2}|2([0-4]?[0-9]?|5[0-5]))\\.){3}([01]?[0-9]{0,2}|2([0-4]?[0-9]?|5[0-5]))";
+		  */
 		String IPClass = "([01]?[0-9]{0,2}|2([0-4]?[0-9]?|5[0-5]))";
 		String literalPeriod = "\\.";
 		pattern = IPClass + literalPeriod + IPClass + literalPeriod + IPClass + literalPeriod + IPClass;
