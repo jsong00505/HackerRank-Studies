@@ -23,7 +23,7 @@ public class Solution {
 		 * check the pattern matched
 		 * .	>> anything
 		 * {n}	>> Matches the preceding element n times.
-		 * \\.	>> A slash(\) means escape characters(here, dot)
+		 * \\.	>> A backslash(\) means escape characters(here, dot)
 		 */
 		tester.check(".{3}\\..{3}\\..{3}\\..{3}");
 
