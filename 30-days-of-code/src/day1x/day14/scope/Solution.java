@@ -28,7 +28,7 @@ class Difference {
 	/**
 	 *   Method Name: computeDifference
 	 *
-	 *   Print the title, author, and price in the specified format.
+	 *   Compute maximum difference
 	 **/
 	public void computeDifference() {
 		for(int i = 0; i < elements.length-1; i++) {
