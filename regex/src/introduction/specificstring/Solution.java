@@ -1,4 +1,4 @@
-package specificstring;
+package introduction.specificstring;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

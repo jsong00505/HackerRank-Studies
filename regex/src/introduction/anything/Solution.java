@@ -1,4 +1,4 @@
-package anything;
+package introduction.anything;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
