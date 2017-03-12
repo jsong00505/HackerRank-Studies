@@ -17,3 +17,4 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 9   | Easy       | [Recursion](https://www.hackerrank.com/challenges/30-recursion)  | [Solution.java](src/day0x/day09/recursion/Solution.java?ts=4) |
 | Tutorials | 10  | Easy       | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)  | [Solution.java](src/day1x/day10/recursion/Solution.java?ts=4) |
 | Tutorials | 11  | Easy       | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)  | [Solution.java](src/day1x/day11/arrays2d/Solution.java?ts=4) |
+| Tutorials | 12  | Easy       | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)  | [Solution.java](src/day1x/day12/inheritance/Solution.java?ts=4) |
