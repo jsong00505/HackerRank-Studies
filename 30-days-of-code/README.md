@@ -15,4 +15,5 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 7   | Easy       | [Arrays](https://www.hackerrank.com/challenges/30-arrays)  | [Solution.java](src/day0x/day07/arrays/Solution.java) |
 | Tutorials | 8   | Easy       | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)  | [Solution.java](src/day0x/day08/dictsandmaps/Solution.java) |
 | Tutorials | 9   | Easy       | [Recursion](https://www.hackerrank.com/challenges/30-recursion)  | [Solution.java](src/day0x/day09/recursion/Solution.java) |
-| Tutorials | 10  | Easy       | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)  | [Solution.java](src/day1x/day09/recursion/Solution.java) |
+| Tutorials | 10  | Easy       | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers)  | [Solution.java](src/day1x/day10/recursion/Solution.java) |
+| Tutorials | 11  | Easy       | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)  | [Solution.java](src/day1x/day11/arrays2d/Solution.java) |
