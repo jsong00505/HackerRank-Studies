@@ -8,5 +8,5 @@ If you have question of my solution, please feel free to email me.
 
 * [30 Days of Code](30-days-of-code/README.md) (Complete)
 * [Java](java/README.md) (21 solved)
-* [RegEx](regex/README.md) (2 solved)
+* [RegEx](regex/README.md) (3 solved)
 * [Week of Code 29] (week-of-code-29/README.md) (2717/9216)
