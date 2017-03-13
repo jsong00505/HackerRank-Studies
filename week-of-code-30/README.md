@@ -1,4 +1,4 @@
-# Week of Code 29
+# Week of Code 30
 
 * Ratings
 
@@ -9,4 +9,4 @@
 
 | Domain          | Difficulty |Challenge | Solution(mine) | Solution(editor) | Score |
 | --------------- | ---------- | -------- | -------------- | ---------------- | ----- |
-| Week of Code 30 | Easy       | [Candy Replenishing Robot](https://www.hackerrank.com/contests/w30/challenges/candy-replenishing-robot)  | [Solution.java](/src/mine/candyrobot/Solution.java?ts=4) | [Solution.java]() | /10 |
+| Week of Code 30 | Easy       | [Candy Replenishing Robot](https://www.hackerrank.com/contests/w30/challenges/candy-replenishing-robot)  | [Solution.java](src/mine/candyrobot/Solution.java?ts=4) | [Solution.java]() | /10 |
