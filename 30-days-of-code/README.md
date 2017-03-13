@@ -20,3 +20,4 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 12  | Easy       | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance)                                | [Solution.java](src/day1x/day12/inheritance/Solution.java?ts=4)   |
 | Tutorials | 13  | Easy       | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)                      | [Solution.java](src/day1x/day13/abstractclass/Solution.java?ts=4) |
 | Tutorials | 14  | Easy       | [Scope](https://www.hackerrank.com/challenges/30-scope)                                            | [Solution.java](src/day1x/day14/scope/Solution.java?ts=4)         |
+| Tutorials | 15  | Easy       | [Linked List](https://www.hackerrank.com/challenges/30-linked-list)                                | [Solution.java](src/day1x/day15/linkedlist/Solution.java?ts=4)    |
