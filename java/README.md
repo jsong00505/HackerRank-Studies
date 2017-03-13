@@ -1,26 +1,26 @@
 # Java
 
-| Domain    | Sub Domain   | Difficulty |Challenge | Solution |
-| --------- | ------------ | ---------- | -------- | -------- |
-| Java      | Introduction | Easy       | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)  | [Solution.java](src/introduction/welcome/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)  | [Solution.java](src/introduction/stdinout1/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)  | [Solution.java](src/introduction/ifelse/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)  | [Solution.java](src/introduction/stdinout2/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)  | [Solution.java](src/introduction/outputformatting/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)  | [Solution.java](src/introduction/loops1/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Loops II](https://www.hackerrank.com/challenges/java-loops)  | [Solution.java](src/introduction/loops2/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)  | [Solution.java](src/introduction/datatypes/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)  | [Solution.java](src/introduction/endoffile/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block)  | [Solution.java](src/introduction/staticinitblock/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)  | [Solution.java](src/introduction/inttostr/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)  | [Solution.java](src/introduction/dateandtime/Solution.java?ts=4) |
-| Java      | Introduction | Easy       | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)  | [Solution.java](src/introduction/currencyformatter/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)  | [Solution.java](src/strings/introduction/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java Substring](https://www.hackerrank.com/challenges/java-substring)  | [Solution.java](src/strings/substring/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)  | [Solution.java](src/strings/compare/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)  | [Solution.java](src/strings/reverse/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)  | [Solution.java](src/strings/anagrams/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)  | [Solution.java](src/strings/tokens/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java Pattern Syntax Checker](https://www.hackerrank.com/challenges/java-string-tokens)  | [Solution.java](src/strings/syntaxchecker/Solution.java?ts=4) |
-| Java      | Strings      | Medium     | [Java Regex](https://www.hackerrank.com/challenges/java-regex)  | [Solution.java](src/strings/regex/Solution.java?ts=4) |
-| Java      | Strings      | Easy       | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word)  | [Solution.java](src/strings/duplicatewords/Solution.java?ts=4) |
+| Domain    | Sub Domain   | Difficulty | Challenge                                                                                            | Solution                                                               |
+| --------- | ------------ | ---------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Java      | Introduction | Easy       | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                            | [Solution.java](src/introduction/welcome/Solution.java?ts=4)           |
+| Java      | Introduction | Easy       | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)             | [Solution.java](src/introduction/stdinout1/Solution.java?ts=4)         |
+| Java      | Introduction | Easy       | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else)                                   | [Solution.java](src/introduction/ifelse/Solution.java?ts=4)            |
+| Java      | Introduction | Easy       | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout)                  | [Solution.java](src/introduction/stdinout2/Solution.java?ts=4)         |
+| Java      | Introduction | Easy       | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting)               | [Solution.java](src/introduction/outputformatting/Solution.java?ts=4)  |
+| Java      | Introduction | Easy       | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i)                                   | [Solution.java](src/introduction/loops1/Solution.java?ts=4)            |
+| Java      | Introduction | Easy       | [Java Loops II](https://www.hackerrank.com/challenges/java-loops)                                    | [Solution.java](src/introduction/loops2/Solution.java?ts=4)            |
+| Java      | Introduction | Easy       | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes)                               | [Solution.java](src/introduction/datatypes/Solution.java?ts=4)         |
+| Java      | Introduction | Easy       | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)                           | [Solution.java](src/introduction/endoffile/Solution.java?ts=4)         |
+| Java      | Introduction | Easy       | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block) | [Solution.java](src/introduction/staticinitblock/Solution.java?ts=4)   |
+| Java      | Introduction | Easy       | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string)                       | [Solution.java](src/introduction/inttostr/Solution.java?ts=4)          |
+| Java      | Introduction | Easy       | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time)                       | [Solution.java](src/introduction/dateandtime/Solution.java?ts=4)       |
+| Java      | Introduction | Easy       | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter)             | [Solution.java](src/introduction/currencyformatter/Solution.java?ts=4) |
+| Java      | Strings      | Easy       | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction)         | [Solution.java](src/strings/introduction/Solution.java?ts=4)           |
+| Java      | Strings      | Easy       | [Java Substring](https://www.hackerrank.com/challenges/java-substring)                               | [Solution.java](src/strings/substring/Solution.java?ts=4)              |
+| Java      | Strings      | Easy       | [Java String Compare](https://www.hackerrank.com/challenges/java-string-compare)                     | [Solution.java](src/strings/compare/Solution.java?ts=4)                |
+| Java      | Strings      | Easy       | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse)                     | [Solution.java](src/strings/reverse/Solution.java?ts=4)                |
+| Java      | Strings      | Easy       | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)                                 | [Solution.java](src/strings/anagrams/Solution.java?ts=4)               |
+| Java      | Strings      | Easy       | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens)                       | [Solution.java](src/strings/tokens/Solution.java?ts=4)                 |
+| Java      | Strings      | Easy       | [Java Pattern Syntax Checker](https://www.hackerrank.com/challenges/java-string-tokens)              | [Solution.java](src/strings/syntaxchecker/Solution.java?ts=4)          |
+| Java      | Strings      | Medium     | [Java Regex](https://www.hackerrank.com/challenges/java-regex)                                       | [Solution.java](src/strings/regex/Solution.java?ts=4)                  |
+| Java      | Strings      | Easy       | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word)               | [Solution.java](src/strings/duplicatewords/Solution.java?ts=4)         |
