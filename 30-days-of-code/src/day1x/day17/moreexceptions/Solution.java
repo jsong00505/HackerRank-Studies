@@ -1,4 +1,4 @@
-package day1x.day17.moreexception;
+package day1x.day17.moreexceptions;
 
 import java.util.Scanner;
 
