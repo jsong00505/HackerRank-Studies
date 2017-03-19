@@ -25,3 +25,4 @@
 | Java      | Strings      | Medium     | [Java Regex](https://www.hackerrank.com/challenges/java-regex)                                       | [Solution.java](src/strings/regex/Solution.java?ts=4)                  |
 | Java      | Strings      | Easy       | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word)               | [Solution.java](src/strings/duplicatewords/Solution.java?ts=4)         |
 | Java      | Strings      | Medium     | [Java Regex 3 - Username Checker](https://www.hackerrank.com/challenges/valid-username-checker)      | [Solution.java](src/strings/usernamechecker/Solution.java?ts=4)        |
+| Java      | Strings      | Medium     | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)                 | [Solution.java](src/strings/tagextractor/Solution.java?ts=4)           |
