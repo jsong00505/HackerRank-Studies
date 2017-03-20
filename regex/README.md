@@ -9,5 +9,6 @@
 | RegEx     | Introduction    | Easy       | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word)                                    | [Solution.java](src/introduction/word/Solution.java?ts=4)           |
 | RegEx     | Introduction    | Easy       | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end)                                                      | [Solution.java](src/introduction/startend/Solution.java?ts=4)       |
 | RegEx     | Character Class | Easy       | [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters)                                    | [Solution.java](src/characterclass/specificchar/Solution.java?ts=4) |
-| RegEx     | Character Class | Easy       | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters)                                  | [Solution.java](src/characterclass/excludingchar/Solution.java?ts=4) |
+| RegEx     | Character Class | Easy       | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters)                                  | [Solution.java](src/characterclass/excludingchar/Solution.java?ts=4)|
+| RegEx     | Character Class | Easy       | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters)                                       | [Solution.java](src/characterclass/charranges/Solution.java?ts=4)   |
 
