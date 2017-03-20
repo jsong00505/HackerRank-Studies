@@ -33,6 +33,9 @@ public class Solution {
 			int count = 0;
 			// bubble sorting
 			for(int i = 0; i < n; i++) {
+				// Track if a swap was made
+				boolean swapped = false;
+
 				for(int j = 0; j < n-1; j++) {
 					// check if it needs swap
 					if(a[j] > a[j+1]) {
@@ -40,9 +43,15 @@ public class Solution {
 						a[j] = a[j+1];
 						a[j+1] = temp;
 
+						swapped = true;
 						// increase the count
 						count++;
 					}
+				}
+
+				// Terminate loop as soon as array is sorted
+				if(!swapped) {
+					break;
 				}
 			}
 
