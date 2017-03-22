@@ -27,4 +27,5 @@
 | Java      | Strings      | Medium     | [Java Regex 3 - Username Checker](https://www.hackerrank.com/challenges/valid-username-checker)      | [Solution.java](src/strings/usernamechecker/Solution.java?ts=4)        |
 | Java      | Strings      | Medium     | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor)                 | [Solution.java](src/strings/tagextractor/Solution.java?ts=4)           |
 | Java      | BigNumber    | Easy       | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger)                             | [Solution.java](src/bignumber/biginteger/Solution.java?ts=4)           |
-| Java      | BigNumber    | Medium     | [Java BigDecimal](hhttps://www.hackerrank.com/challenges/java-bigdecimal)                            | [Solution.java](src/bignumber/bigdecimal/Solution.java?ts=4)           |
+| Java      | BigNumber    | Medium     | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)                             | [Solution.java](src/bignumber/bigdecimal/Solution.java?ts=4)           |
+| Java      | BigNumber    | Easy       | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)                     | [Solution.java](src/bignumber/primalitytest/Solution.java?ts=4)        |
