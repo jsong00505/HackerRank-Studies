@@ -27,3 +27,4 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 19  | Easy       | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)                                      | [Solution.java](src/day1x/day19/interfaces/Solution.java?ts=4)    |
 | Tutorials | 20  | Easy       | [Sorting](https://www.hackerrank.com/challenges/30-sorting)                                            | [Solution.java](src/day2x/day20/sorting/Solution.java?ts=4)       |
 | Tutorials | 21  | Easy       | [Generics](https://www.hackerrank.com/challenges/30-generics)                                          | [Solution.java](src/day2x/day21/generics/Solution.java?ts=4)      |
+| Tutorials | 22  | Easy       | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                    | [Solution.java](src/day2x/day22/binsearchtrees/Solution.java?ts=4) |
