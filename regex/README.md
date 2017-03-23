@@ -11,6 +11,7 @@
 | RegEx     | Character Class | Easy       | [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters)                                    | [Solution.java](src/characterclass/specificchar/Solution.java?ts=4) |
 | RegEx     | Character Class | Easy       | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters)                                  | [Solution.java](src/characterclass/excludingchar/Solution.java?ts=4)|
 | RegEx     | Character Class | Easy       | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters)                                       | [Solution.java](src/characterclass/charranges/Solution.java?ts=4)   |
-| RegEx     | Repetitions     | Easy       | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions)                                              | [Solution.java](src/repetitions/xrepetitions/Solution.java?ts=4)   |
+| RegEx     | Repetitions     | Easy       | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions)                                              | [Solution.java](src/repetitions/xrepetitions/Solution.java?ts=4)    |
 | RegEx     | Repetitions     | Easy       | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions)                                         | [Solution.java](src/repetitions/xyrepetitions/Solution.java?ts=4)   |
+| RegEx     | Repetitions     | Easy       | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions)                          | [Solution.java](src/repetitions/zerorepetitions/Solution.java?ts=4) |
 
