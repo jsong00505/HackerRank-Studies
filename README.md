@@ -1,15 +1,27 @@
 # HackerRank-Studies
 
-This is about studying [HackerRank]() problems by myself.
-I have written these codes [Java-Studies](), but the repository is kind of my exercise repository of Java.
+---
+
+This is about studying [HackerRank](https://www.hackerrank.com/) problems by myself.
+I have written these codes [Java-Studies](https://github.com/jsong00505/Java-Studies), but the repository is kind of my exercise repository of Java.
 That is why I reorganized my solutions here again.
 
 If you have question of my solution, please feel free to email me.
 
-* [30 Days of Code](30-days-of-code/README.md) (Complete)
-* [Java](java/README.md) (23 solved)
-* [RegEx](regex/README.md) (8 solved)
-* [Week of Code 29](week-of-code-29/README.md) (2717/9216)
-* [Week of Code 30](week-of-code-30/README.md) (last day)
+## Study
 
-`updated by 20 March 2017`
+---
+
+* [30 Days of Code](30-days-of-code/README.md) (Complete)
+* [Java](java/README.md) (28 solved)
+* [RegEx](regex/README.md) (12 solved)
+* [Algorithms](algorithms/README.md) (4 solved)
+
+## Competition
+
+---
+
+* [Week of Code 29](week-of-code-29/README.md) (2717/9216)
+* [Week of Code 30](week-of-code-30/README.md) (2114/10574)
+
+`updated by 23 March 2017`
