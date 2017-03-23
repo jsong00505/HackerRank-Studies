@@ -29,3 +29,4 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 21  | Easy       | [Generics](https://www.hackerrank.com/challenges/30-generics)                                          | [Solution.java](src/day2x/day21/generics/Solution.java?ts=4)               |
 | Tutorials | 22  | Easy       | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)                    | [Solution.java](src/day2x/day22/binsearchtrees/Solution.java?ts=4)         |
 | Tutorials | 23  | Easy       | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                     | [Solution.java](src/day2x/day23/bstlevelordertraversal/Solution.java?ts=4) |
+| Tutorials | 24  | Easy       | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                     | [Solution.java](src/day2x/day24/morelinkedlists/Solution.java?ts=4)        |
