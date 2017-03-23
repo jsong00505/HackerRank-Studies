@@ -1,9 +1,6 @@
 package day2x.day23.bstlevelordertraversal;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * Created by jsong on 23/03/2017.
@@ -45,12 +42,17 @@ public class Solution {
 	 * @param root
 	 */
 	static void levelOrder(Node root) {
-		// TODO better use LinkedList than ArrayList
-		List<Node> queue = new ArrayList<>();
-		queue.add(root);
+		Queue<Node> queue = new LinkedList<>();
+
+		// validation
+		if (root != null) {
+			queue.add(root);
+		}
+
+		// do BFS
 		while (!queue.isEmpty()) {
 			// pop
-			Node temp = queue.remove(0);
+			Node temp = queue.remove();
 
 			System.out.print(temp.data + " ");
 
