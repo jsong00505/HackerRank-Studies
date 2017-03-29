@@ -30,14 +30,15 @@ public class Solution {
 				// constraints
 				assert (n >= 1 && n <= (2 * Math.pow(10, 9)));
 
-				if (n == 1) {
+				// 1 is not prime or even numbers ( > 2) are not prime
+				if (n == 1 || ((n & 1) == 0 && n != 2)) {
 					printText = "Not prime";
 				}
 
 				// check if the 'n' is prime
-				for (int j = 2; j <= Math.sqrt(n); j++) {
+				for (int j = 3; j <= Math.sqrt(n); j += 2) {
 					// if 'n' is divided by 'j', the 'n' is not prime
-					if (n % j == 0 && n != 2) {
+					if (n % j == 0) {
 						printText = "Not prime";
 						break;
 					}
