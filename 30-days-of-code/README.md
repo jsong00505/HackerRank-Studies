@@ -31,3 +31,4 @@ I already complete this track, but I just add some comments and refactor my code
 | Tutorials | 23  | Easy       | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)                     | [Solution.java](src/day2x/day23/bstlevelordertraversal/Solution.java?ts=4) |
 | Tutorials | 24  | Easy       | [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)                     | [Solution.java](src/day2x/day24/morelinkedlists/Solution.java?ts=4)        |
 | Tutorials | 25  | Easy       | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)    | [Solution.java](src/day2x/day25/timencomplexity/Solution.java?ts=4)        |
+| Tutorials | 26  | Easy       | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                  | [Solution.java](src/day2x/day26/nestedlogic/Solution.java?ts=4)            |
