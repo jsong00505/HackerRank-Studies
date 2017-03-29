@@ -13,9 +13,9 @@ If you have question of my solution, please feel free to email me.
 ---
 
 * [30 Days of Code](30-days-of-code/README.md) (Complete)
-* [Java](java/README.md) (28 solved)
-* [RegEx](regex/README.md) (12 solved)
-* [Algorithms](algorithms/README.md) (4 solved)
+* [Java](java/README.md) (29 solved)
+* [RegEx](regex/README.md) (13 solved)
+* [Algorithms](algorithms/README.md) (7 solved)
 
 ## Competition
 
