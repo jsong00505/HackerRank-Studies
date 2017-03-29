@@ -30,3 +30,4 @@
 | Java      | BigNumber       | Medium     | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)                             | [Solution.java](src/bignumber/bigdecimal/Solution.java?ts=4)           |
 | Java      | BigNumber       | Easy       | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test)                     | [Solution.java](src/bignumber/primalitytest/Solution.java?ts=4)        |
 | Java      | Data Structures | Easy       | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)                    | [Solution.java](src/datastructures/onedarray/Solution.java?ts=4)        |
+| Java      | Data Structures | Easy       | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array)                                 | [Solution.java](src/datastructures/twoddarray/Solution.java?ts=4)        |
