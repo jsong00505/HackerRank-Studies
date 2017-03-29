@@ -14,4 +14,5 @@
 | RegEx     | Repetitions     | Easy       | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions)                                              | [Solution.java](src/repetitions/xrepetitions/Solution.java?ts=4)    |
 | RegEx     | Repetitions     | Easy       | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions)                                         | [Solution.java](src/repetitions/xyrepetitions/Solution.java?ts=4)   |
 | RegEx     | Repetitions     | Easy       | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions)                          | [Solution.java](src/repetitions/zerorepetitions/Solution.java?ts=4) |
+| RegEx     | Repetitions     | Easy       | [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions)                            | [Solution.java](src/repetitions/onerepetitions/Solution.java?ts=4)  |
 
