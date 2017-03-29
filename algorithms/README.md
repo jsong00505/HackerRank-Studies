@@ -6,4 +6,4 @@
 | Algorithms | Warmup          | Easy       | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)                                                            | [Solution.java](src/warmup/simplearraysum/Solution.java?ts=4)       |
 | Algorithms | Warmup          | Easy       | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)                                                    | [Solution.java](src/warmup/comparethetriplets/Solution.java?ts=4)   |
 | Algorithms | Warmup          | Easy       | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)                                                                | [Solution.java](src/warmup/averybigsum/Solution.java?ts=4)          |
-
+| Algorithms | Warmup          | Easy       | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)                                                      | [Solution.java](src/warmup/diagonaldifference/Solution.java?ts=4)   |
