@@ -30,10 +30,14 @@ public class Solution {
 				// constraints
 				assert (n >= 1 && n <= (2 * Math.pow(10, 9)));
 
+				if (n == 1) {
+					printText = "Not prime";
+				}
+
 				// check if the 'n' is prime
 				for (int j = 2; j <= Math.sqrt(n); j++) {
 					// if 'n' is divided by 'j', the 'n' is not prime
-					if (n % j == 0) {
+					if (n % j == 0 && n != 2) {
 						printText = "Not prime";
 						break;
 					}
