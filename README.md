@@ -13,7 +13,7 @@ If you have question of my solution, please feel free to email me.
 ---
 
 * [30 Days of Code](30-days-of-code/README.md) (Complete)
-* [Java](java/README.md) (29 solved)
+* [Java](java/README.md) (30 solved)
 * [RegEx](regex/README.md) (13 solved)
 * [Algorithms](algorithms/README.md) (7 solved)
 
@@ -24,4 +24,4 @@ If you have question of my solution, please feel free to email me.
 * [Week of Code 29](week-of-code-29/README.md) (2717/9216)
 * [Week of Code 30](week-of-code-30/README.md) (2114/10574)
 
-`updated by 23 March 2017`
+`updated by 29 March 2017`
